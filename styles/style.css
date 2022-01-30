@@ -1,0 +1,22 @@
+body    {
+    background-color: grey;
+    color: white;
+    font: normal 20pt Arial;
+    text-align: center;
+}
+div#resultado   {
+    margin-top: 20px;
+    font: normal 20pt Arial;
+}
+input#entrada1  {
+    width: 200px;
+    height: 20px;
+}
+input#entrada2  {
+    width: 200px;
+    height: 20px;
+}
+input#verif {
+    width: 100px;
+    height: 25px;
+}
